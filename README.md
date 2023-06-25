@@ -44,10 +44,14 @@
 ![Git](https://img.shields.io/badge/Git-232F3E.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
-![1](https://github.com/SeongLI/STF/assets/110223414/bc759685-517d-41f6-bab1-fa1a51bccaba)
-![2](https://github.com/SeongLI/STF/assets/110223414/60976d74-2374-4405-a3f4-82ae9b741775)
-![3](https://github.com/SeongLI/STF/assets/110223414/cbff3792-9582-4cfe-a9cf-73ea044de090)
-![4](https://github.com/SeongLI/STF/assets/110223414/f033bc06-a43e-4666-8c88-84df38abbc0d)
-![5](https://github.com/SeongLI/STF/assets/110223414/e81cc969-540b-43f8-9b55-ade355068bb8)
+https://github.com/SeongLI/BSG_Silver_Town_Fitness/assets/110223414/71004c58-fdac-484d-aaad-893aa092d296
+
+https://github.com/SeongLI/BSG_Silver_Town_Fitness/assets/110223414/db506de7-d109-4df8-9bac-e4a414eb56d9
+
+https://github.com/SeongLI/BSG_Silver_Town_Fitness/assets/110223414/d037cfdd-ef07-4e94-863d-3d239a8cfc07
+
+https://github.com/SeongLI/BSG_Silver_Town_Fitness/assets/110223414/22a19167-50c4-4d2b-9ae2-aa2ae687135f
+
+https://github.com/SeongLI/BSG_Silver_Town_Fitness/assets/110223414/0ee08363-c9ae-47e5-abfc-37a515208dc2
 
 
